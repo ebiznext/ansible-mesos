@@ -57,4 +57,4 @@ MIT
 
 # Author Information
 
-Stéphane Manciot - stephane.manciot [at] gmail.com
+Stéphane Manciot - stephane.manciot [at] ebiznext.com
